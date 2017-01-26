@@ -1,1 +1,13 @@
-# practica-git
+# Practicando GIT
+
+## Parte Uno
+1. Inicia un repositorio en tu equipo
+1. Crea una rama llamada featureTUCODIGO (debes reemplazar tu código con el de la UDG)
+1. Crea un archivo llamado `test` y dentro escribe una explicación de para que sirve el gitignore en GIT
+1. Crea un folder usando como nombre tu código de UDG
+1. Dentro de tu folder, crea un programa en el lenguaje que quieras y que muestre un "Hola Mundo". El archivo debe llamarse `programa`
+1. Realiza las tareas necesarias para hacer un commit en tu local de manera que solo el folder y el programa dentro queden registrados en la historia
+1. Empuja tu rama a este repositorio remoto
+1. Renombra el archivo de tu programa, ahora debera llamarse `hola`
+1. Realiza los cambios necesarios para que estos cambios se vean reflejados en la historia tanto en tu local como en este repositorio.
+
