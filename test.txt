@@ -1,0 +1,1 @@
+Para poder ignorar archivos que no nos sirven subir al repositorio, al editarlo pondremos todas las expresiones que queremos para que GIT ignore los archivos.
