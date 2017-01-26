@@ -1,0 +1,8 @@
+A grandes rasgos gitignore es un archivo especial de gir que le indica
+a git que archivos debe ignorar... 
+esto es util ya que por defecto los diefentes sitemas generan archivos
+temporales los cuales no se relacionan
+en nada con el proyecto que se trabaja y comparte. 
+gracias a esto git al momenmto de confirmar cambios,
+es capaz de ignorar dichos documentos permitiendo que
+el proyecto no tenga archivos basura
