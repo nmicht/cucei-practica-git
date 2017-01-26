@@ -1,0 +1,3 @@
+.gitignore sirve para ignorar los ficheros
+los archivos que no quieres que se agreguen 
+
