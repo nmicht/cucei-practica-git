@@ -1,0 +1,1 @@
+gitignore es un archivo que contiene la configuración de git para indicarle que archivos pueden o no subirse.
