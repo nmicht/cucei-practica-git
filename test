@@ -1,3 +1,0 @@
-gitignore: Sirve para ignorar archivos al momento de que tu pones un comando
-status el cual indica los archivos que no estan en stage o los que si estan,
-los archivos que pusiste en gitignore no aparecera nada sobre ellos.
