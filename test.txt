@@ -1,0 +1,1 @@
+El archivo .gitignore ignora archivos que no es necesario incluirse en el proyecto.
