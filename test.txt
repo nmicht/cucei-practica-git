@@ -1,1 +1,0 @@
-gitignore en GIT es un comando para poder ignorar otros comandos en git
