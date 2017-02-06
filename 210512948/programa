@@ -1,0 +1,8 @@
+#include <iostream>
+
+using namespace std;
+
+int void(){
+ cout<<"hola mundo"<<endl;
+ return 0;
+}
