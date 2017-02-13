@@ -1,0 +1,20 @@
+En esta serie vamos a profundizar un poco mas en el fichero .gitignore, para que sirve y
+como podemos usarlo, empezando por como decide git si ignorar un fichero o no.
+
+En cualquier proyecto, existen ficheros que no deben incluirse en el repositorio. Por
+nombrar algunos de ellos
+
+	*Ficheros de log
+	*Cachés
+	*Ficheros que contienen claves privadas para acceder a las API o servicios web
+	*Ficheros de configuracion con contraseñas de bases de datos
+	*Ficheros binarios compilados
+	*Ficheros de configuracion del entorno de desarrollo
+
+cuando empiezas a utilizar git, tardas muy poco en preguntarte como puedes evitar subir
+estos ficheros al repositorio. Si buscas en google, encontraras en todos sitios que lo que
+tienes que hacer es crear un fichero .gitignore que hay que subir al  repositorio o 
+crear un fichero .git/info/exclude para poner las reglas locales. Tú lo creas y entonces
+empiezan las preguntas: ¿y cual de las dos tiene preferencia? ¿y porqué lo tengo que incluir
+en el repositorio? ¿y porqué subo uno si y otro no? ¿Un fichero, no son propiedades como en subversion? ¿y si yo quiero usar un gitignore y el resto del mundo otro?
+ 
