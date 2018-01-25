@@ -1,0 +1,1 @@
+El archivo .gitignore sirve para listar los archivos que no se tiene rastro de ellos y que deben ser ignorados, los archivos que si se tienen rastreados no se ven afectados.
