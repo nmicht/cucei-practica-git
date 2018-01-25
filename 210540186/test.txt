@@ -1,0 +1,3 @@
+Comando .gitignore
+Especifica archvivos no trackeados que git debe ignorar
+Los archivos que ya han sido seguidos (tracked) no son afectados 
