@@ -1,0 +1,1 @@
+El archivo .gitignore sirve para que git, como lo dice su nombre en inglés, ignore cierto archivos o carpetas y no se suba al repositorio en el que se este trabajando, esto es muy útil para no agregar dependencias al repositorio
