@@ -10,8 +10,9 @@
 1. Empuja tu rama a este repositorio remoto
 1. Renombra el archivo de tu programa, ahora debera llamarse `hola`
 1. Realiza los cambios necesarios para que estos cambios se vean reflejados en la historia tanto en tu local como en este repositorio.
+1. En la rama de tu compañero sentado a la derecha de ti, edita su programa para que la salida sea un "Hola Mundo Feliz", registra los cambios y empujalos a su rama.
+1. En la rama `dev` hay un archivo llamado lista, realiza los cambios necesarios para que esos archivos de la rama dev se encuentre en la rama creada en el paso 2.
+1. Agrega tu nombre al final de la lista del archivo lista.
+1. Realiza las tareas necesarias para que los cambios se vean aplicados en tu local y en este repositorio remoto en tu rama.
+1. Fusiona en la rama dev los cambios de tu rama y empujalos a este repositorio remoto.
 
-## Parte Dos
-1. En la rama `dev` hay un archivo llamado lista
-1. Agrega tu nombre al final de la lista
-1. Realiza las tareas necesarias para que los cambios se vean aplicados en tu local y en este repositorio remoto.
