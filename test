@@ -1,0 +1,5 @@
+GitIgnore
+
+El archivo gitignore sirve para indicarle a git que archivos o directorios completos debe ignorar y no subir al repositorio de código.
+
+En el archivo se especifican todas las rutas y archivos que no se requieren y con ello, el proceso de control de vesiones ignora estos archivos.
