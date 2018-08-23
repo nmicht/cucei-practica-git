@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-	cout << "El Tipico Hola Mundo !!" << endl;
+	cout << "Hola Mundo Feliz !!" << endl;
 	cout << "Escrito desde C++" << endl;
 
 

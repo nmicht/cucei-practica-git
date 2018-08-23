@@ -1,0 +1,1 @@
+.gitignore ignora todos los archivos que no son necesarios dentro del proyecto para eliminar peso y que el proyecto sea mas ligero, ayudando al mantenimiento y distribucion de la misma.
