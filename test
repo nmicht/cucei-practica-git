@@ -1,0 +1,1 @@
+El archivo .gitignore nos sirve para ignorar los archivos que no queremos compartir en nuestro repositorio remoto ya sea porque es innecesario o quiza tenemos variables de entorno que no queremos compartir.
