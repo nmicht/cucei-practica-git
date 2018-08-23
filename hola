@@ -1,0 +1,3 @@
+Git Ignore es un archivo en donde se especificaran que archivos deben ser excluidos de los add que se hacen en git.
+
+Esto con la finalidad de resguardar información confidencial que no pueden compartirse, como variables de sesión, connectionstrings, etc
