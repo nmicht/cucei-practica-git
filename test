@@ -1,0 +1,1 @@
+#gitignore especifica intencionalmente los archivos sin seguimiento que debe ignorar, los archivos que poseen seguimiento no se ven afectados por gitignore.
