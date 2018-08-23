@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+El propósito de los archivos de gitignore es garantizar que ciertos archivos no rastreados por Git permanezcan sin seguimiento.
+
+Para detener el seguimiento de un archivo que actualmente se rastrea, use git rm --cached . 
+=======
+#gitignore especifica intencionalmente los archivos sin seguimiento que debe ignorar, los archivos que poseen seguimiento no se ven afectados por gitignore.
+>>>>>>> 39e511a027e8ce35f4f1d2268ac1b80ffca6636f
+=======
+El archivo .gitignore nos sirve para ignorar los archivos que no queremos compartir en nuestro repositorio remoto ya sea porque es innecesario o quiza tenemos variables de entorno que no queremos compartir.
+>>>>>>> 593a2a605d9a97d392d0d900fef1783bc925dd26
