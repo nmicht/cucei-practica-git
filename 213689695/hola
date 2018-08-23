@@ -1,8 +1,8 @@
-#include iostream
-using namespace std;
+#include <stdio.h>
+#include <stdlib.h>
 
 int main()
 {
-   cout << "Hola mundo" << endl;
+   prinft("Hola mundo feliz");
    return 0;
 }
