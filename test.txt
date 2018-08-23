@@ -1,1 +1,0 @@
-gitignore le dice a Git que archivos o directorios debe ignorar y no subir al repositorio. 
