@@ -15,4 +15,3 @@
 1. Agrega tu nombre al final de la lista del archivo lista.
 1. Realiza las tareas necesarias para que los cambios se vean aplicados en tu local y en este repositorio remoto en tu rama.
 1. Fusiona en la rama dev los cambios de tu rama y empujalos a este repositorio remoto.
-
